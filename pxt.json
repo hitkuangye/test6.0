@@ -17,6 +17,7 @@
     "testFiles": [
         "test.ts"
     ],
+    "public": true,
     "supportedTargets": [
         "microbit"
     ],
