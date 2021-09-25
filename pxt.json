@@ -2,6 +2,7 @@
     "name": "Huskylens",
     "version": "2.0.3",
     "description": "",
+    "license": "MIT",
     "dependencies": {
         "core": "*",
         "neopixel": "github:lzty634158/pxt-neopixel"
